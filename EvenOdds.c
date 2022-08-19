@@ -20,6 +20,7 @@ int main ()
             i = 2*k;
         }
     }
+    //for odd numbers
     else if(n%2!=0)
     {
         x = n/2 + 1;
