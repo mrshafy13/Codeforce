@@ -32,7 +32,6 @@ int main ()
             k = k - x;
             i = 2*k;
         }
-        
     }
     printf("%lld\n", i);
     return 0;
