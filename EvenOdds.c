@@ -2,7 +2,7 @@
 
 int main () 
 {
-    long long int n, k, x, i, j;
+    long long int n, k, x, i;
     scanf("%lld", &n);
     scanf("%lld", &k);
 
